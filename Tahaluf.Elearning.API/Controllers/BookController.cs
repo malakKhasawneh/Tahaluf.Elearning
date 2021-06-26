@@ -28,15 +28,7 @@ namespace Tahaluf.Elearning.API.Controllers
                CourseId=2,
 
             },
-               new Book()
-            {
-                Id=3,
-                Name="English",
-                CourseId=3,
-
-
-            }
-
+          
         };
         // Get Method 
         [HttpGet]
